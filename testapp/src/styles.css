@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+.ui-page .ui-header {
+    background: yellow;
+    color: white;
+   
+}
+
+.ui-page .ui-footer {
+    background: green;
+    color: white;
+   
+}
+
+.title{
+	text-decoration-color: black;
+}
